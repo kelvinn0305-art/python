@@ -175,5 +175,11 @@ l = [60,50,40,30,20,10]
 # l.sort() #all element line by line
 # print(l)
 
-l.copy() #all element 
-print(l)
+# l.copy() #all element 
+# print(l)
+
+# 1d array
+
+# array = [10,20,30,40,50]
+# print(array[3])
+
