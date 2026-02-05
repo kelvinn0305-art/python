@@ -51,7 +51,7 @@ while True:
                 
                 print("Student information updated successfully!")
     elif choice==4:
-        stuid =int(input("Enter student ID to delete:"))
+        studid =int(input("Enter student ID to delete:"))
         for stud in li:
             if stud ['studid']==studid:
                 li.remove(stud)
