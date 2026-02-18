@@ -71,7 +71,7 @@ first = True
  
 while True:
             if not first:
-                print("\n choose another opration\n")
+                print("choose another opration\n")
                 
             first=False
             print("choose an opration")
